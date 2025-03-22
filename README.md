@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Pradhan</h1>
 <h3 align="center">I am passionate about Vlsi design</h3>
 
-- 🔭 I’m currently working on **RISC-V Processor (designing)**
 
-- 🌱 I’m currently learning **digital ic design**
 
-- 💬 Ask me about **verilog,digital circuits**
+- 💬 Ask me about **verilog,digital circuits,system verilog**
 
 - 📫 How to reach me **pradhanajitkumar439@gmail.com**
 
